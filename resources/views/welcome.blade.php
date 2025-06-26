@@ -31,5 +31,11 @@
         <li>URL : "/api/posts"</li>
         <li>Property : {"id", "title", "content"}</li>
     </ul>
+     <h4>Delete Post</h4>
+    <ul>
+        <li>Method : DELETE</li>
+        <li>URL : "/api/posts/id/{id}"</li>
+      
+    </ul>
 </body>
 </html>
